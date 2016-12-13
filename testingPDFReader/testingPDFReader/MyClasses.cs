@@ -46,8 +46,7 @@ namespace testingPDFReader
             string _search = "";
             for (int i = _from; i <= _to; i++)
             {
-                int x = 0;
-                
+                int x = 0;                
             }
 
             return _search;
